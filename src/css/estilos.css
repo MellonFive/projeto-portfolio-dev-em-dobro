@@ -7,7 +7,7 @@ body {
 	font-family: "Poppins", sans-serif;
 	margin: 0 auto;
 	max-width: 1120px;
-	background: linear-gradient(150deg, #000000, #9e00ff);
+	background: linear-gradient(150deg, #000000, red);
 	background-size: 120% 120%;
 }
 
@@ -105,13 +105,13 @@ body {
 }
 
 .home .container-foto img {
-	width: 100%;
 	border-radius: 50%;
 }
 
 .home .foto.sombra-interna {
 	background: linear-gradient(to right, #8a35c8, #18c063, #00eea2);
 	background-size: 180% 180%;
+	width: 90%;
 	animation: gradient-animation 5s ease infinite;
 }
 
