@@ -31,8 +31,8 @@ body {
 }
 
 .cabecalho a:hover .logo {
-	color: #9443d8;
-	border: 2px solid #9443d8;
+	color: red;
+	border: 2px solid red;
 }
 
 .cabecalho .menu li a {
@@ -43,7 +43,7 @@ body {
 }
 
 .cabecalho .menu li a:hover {
-	background-color: #9443d8;
+	background-color: red;
 	color: #fff;
 	border-radius: 50px;
 }
@@ -94,8 +94,8 @@ body {
 }
 
 .home .redes-sociais a i:hover {
-	color: #9443d8;
-	border: 1px solid #9443d8;
+	color: red;
+	border: 1px solid red;
 	transform: scale(1.1);
 }
 
@@ -194,7 +194,7 @@ body {
 }
 
 .projetos .btn-mostrar-projetos:hover {
-	background-color: #9443d8;
+	background-color: red;
 	transition: 0.3s;
 }
 
